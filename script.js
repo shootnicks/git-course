@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>This text wrote in js file</h1>';
